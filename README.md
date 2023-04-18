@@ -10,3 +10,15 @@
 |Ethernet|Realtek RTL8168H/8111H PCI Express Gigabit Ethernet|
 |WLAN+BT|BCM943602CS  PCIE 1X|
 |Audio|Realtek ALC897|
+|chipset|Q87|
+
+正常工作的：
+CPU睿频（没有鸡血补丁，最高3.1）
+显卡硬件解码
+睡眠
+双显(一个DP一个HDMI正常，双DP登录第二阶段黑屏)
+接力
+USB
+声音
+BIOS设置：
+Disable: CSM 、CFG Lock 、Secure Boot 、COM
