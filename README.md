@@ -1,6 +1,6 @@
 # Hackintosh-HUANAN-X99-QD4
 ![image](https://user-images.githubusercontent.com/17468133/232712030-04555941-39e8-4c57-82a5-65c1d3dac63f.png)
-#配置
+配置
 |Item|Description|
 |-|:-------:|
 |CPU|Intel Xeon E5 2698V3|
