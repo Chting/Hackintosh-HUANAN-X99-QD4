@@ -199,6 +199,8 @@
 				<string>Radeon Pro W5500X</string>
 				<key>name</key>
 				<string>ATY_GPU</string>
+				<key>CFG_LINK_FIXED_MAP</key>
+				<integer>1</integer>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x1)</key>
 			<dict>
